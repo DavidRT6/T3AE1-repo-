@@ -1,3 +1,7 @@
 Roca Tauste
 lo que sea
+<<<<<<< HEAD
 usuari2
+=======
+usuari1
+>>>>>>> a7c5e2549b0918cd8c8fe3c4c5f25ecc05424ba0
